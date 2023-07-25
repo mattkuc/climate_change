@@ -10,3 +10,5 @@ Technologies used:
 
 Libraries used:
 * Pandas
+* Seaborn
+* Matplotlib
